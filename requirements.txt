@@ -37,6 +37,5 @@ typing_extensions==4.12.0
 virtualenv==20.26.3
 wcwidth==0.2.13
 Werkzeug==3.0.3
-# requirements.txt
 pywin32
 
